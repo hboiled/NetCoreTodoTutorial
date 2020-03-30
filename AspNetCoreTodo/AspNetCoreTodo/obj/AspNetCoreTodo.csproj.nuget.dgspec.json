@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\61406\\Desktop\\NCVS\\Aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {}
+    "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\61406\\Desktop\\NCVS\\Aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {
+    "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\61406\\Desktop\\NCVS\\Aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "C:\\Users\\61406\\Desktop\\NCVS\\Aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\61406\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\61406\\Desktop\\NCVS\\Aspnetcoretodo\\aspnetcoretodo\\obj\\",
+        "outputPath": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.7.9, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.2, )"
