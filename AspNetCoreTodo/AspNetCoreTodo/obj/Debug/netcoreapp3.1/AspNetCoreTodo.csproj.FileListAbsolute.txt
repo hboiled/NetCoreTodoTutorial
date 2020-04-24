@@ -135,3 +135,5 @@ C:\Users\61406\Desktop\NCVS\aspnetcoretodo\aspnetcoretodo\obj\Debug\netcoreapp3.
 C:\Users\61406\Desktop\NCVS\aspnetcoretodo\aspnetcoretodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.dll
 C:\Users\61406\Desktop\NCVS\aspnetcoretodo\aspnetcoretodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.pdb
 C:\Users\61406\Desktop\NCVS\aspnetcoretodo\aspnetcoretodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.genruntimeconfig.cache
+C:\Users\61406\Desktop\NCVS\AspNetCoreTodo\aspnetcoretodo\obj\Debug\netcoreapp3.1\Razor\Views\ManageUsers\Index.cshtml.g.cs
+C:\Users\61406\Desktop\NCVS\AspNetCoreTodo\aspnetcoretodo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminActionsPartial.cshtml.g.cs

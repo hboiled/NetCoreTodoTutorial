@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {}
+    "C:\\Users\\61406\\Desktop\\NCVS\\AspNetCoreTodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {
+    "C:\\Users\\61406\\Desktop\\NCVS\\AspNetCoreTodo\\aspnetcoretodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\Users\\61406\\Desktop\\NCVS\\AspNetCoreTodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\Users\\61406\\Desktop\\NCVS\\AspNetCoreTodo\\aspnetcoretodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\61406\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\61406\\Desktop\\NCVS\\aspnetcoretodo\\aspnetcoretodo\\obj\\",
+        "outputPath": "C:\\Users\\61406\\Desktop\\NCVS\\AspNetCoreTodo\\aspnetcoretodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
